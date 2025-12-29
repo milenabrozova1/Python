@@ -35,7 +35,7 @@ Načtení surových dat z CSV a kontrola (počet řádků/sloupců, náhled, dat
 Export vyčištěných dat.
 **Výstup:** `Brozova_Milena_zdrojova_data.csv`
 
-## 3) Analýza dat (odpovědi)
+## 3) Analýza dat 
 ### 3.1 Průměrná a mediánová cena
 Průměrná cena za pronájem ve výši 13 201 Kč je vyšší než mediánová cena   12 500 Kč.
 Medián je odolnější vůči extrémům, průměr může zvyšovat několik dražších bytů.
